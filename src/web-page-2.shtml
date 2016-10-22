@@ -1,0 +1,16 @@
+<!doctype html>
+<html class="no-js" lang="">
+  <head>
+    <meta charset="utf-8">
+    <title>Web page 2</title>
+    <link rel="stylesheet" href="/main.css">
+  </head>
+  <body>
+    <!--#include virtual="html/modules/header.html" -->
+    <div class="ui outer container">
+        <!--#include virtual="html/html_2.shtml" -->
+    </div>
+    <!--#include virtual="html/modules/footer.html" -->
+    <script src="/bundle.js"></script>
+  </body>
+</html>

@@ -1,0 +1,8 @@
+<main class="ui main">
+  <section class="ui section wrapper ghost">
+    <!--#include virtual="modules/module-stage.html" -->
+  </section>
+  <section class="ui section wrapper">
+    <!--#include virtual="modules/module-slider.html" -->
+  </section>
+</main>

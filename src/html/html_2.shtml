@@ -1,0 +1,5 @@
+<main class="ui main">
+  <section class="ui section wrapper">
+    <!--#include virtual="modules/module-gallery.html" -->
+  </section>
+</main>

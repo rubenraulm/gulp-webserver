@@ -1,0 +1,25 @@
+$light-grey : #EAEAEA;
+$grey : #D4D4D4;
+$blue : #8BC3E4;
+* {
+  box-sizing: border-box;
+  color: white;
+  clear: both;
+  font-family: Raleway, sans-serif;
+}
+
+body, html {
+   height:100%;
+   background: $light-grey;
+   font-weight: 400;
+}
+body{
+    width: 800px;
+    margin: 0 auto;
+    .ui.section.wrapper{
+        background: $blue;
+        text-align: center;
+        margin: 10px 0;
+        padding: 20px 0;
+    }
+}
